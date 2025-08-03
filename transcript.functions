@@ -1,5 +1,4 @@
-//BEFORE FUNCTION OPTIMIZATION
-
+// Transcript implementation using java
 #include <stdio.h>
 
 int main() {
